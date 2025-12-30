@@ -40,6 +40,6 @@ To be defined later.
 
 ## Team
 This project is carried out by:
-- **Léa PONS** (M2 DIGIMOV)
-- **Morgan VIROLAN** (M2 DIGIMOV)
-- **Lucas SAVONA** (M2 DIGIMOV)
+- **Léa PONS** (M2 DIGIMOVE)
+- **Morgan VIROLAN** (M2 DIGIMOVE)
+- **Lucas SAVONA** (M2 DIGIMOVE)
