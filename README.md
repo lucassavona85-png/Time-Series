@@ -1,47 +1,45 @@
 # Time-Series
 
 ## Description
-Ce dépôt GitHub collaboratif est destiné à entreposer le travail de groupe sur l'analyse de séries temporelles. Il contient le code source, les jeux de données et les livrables du projet.
+This collaborative GitHub repository is designed to store the group’s work on time-series analysis. It contains the source code, datasets, and project deliverables.
 
-## Structure du Dépôt
+---
 
-### 📁 code/
-Ce dossier contient tout le code source du projet :
-- Scripts d'analyse
-- Modèles de prévision
-- Fonctions utilitaires
-- Notebooks Jupyter
+## Branch Organization
+To ensure clean collaboration and thematic clarity, the project is structured around three main branches, each dedicated to a specific methodological domain in time-series analysis:
 
-### 📁 data/
-Ce dossier contient les jeux de données utilisés pour le projet :
-- Données brutes
-- Données prétraitées
-- Données d'entraînement et de test
+- 🌿 **stochastic-process**
+- 🌿 **spectral-fractal-analysis**
+- 🌿 **nonlinear-analysis**
 
-### 📁 deliverables/
-Ce dossier contient les livrables et documents finaux :
-- Rapports PDF
-- Présentations
-- Documents de synthèse
-- Résultats finaux
+---
 
-## Guide de Collaboration
+## Repository Structure
 
-### Contribuer au Projet
-1. Clonez le dépôt sur votre machine locale
-2. Créez une nouvelle branche pour vos modifications
-3. Effectuez vos changements dans les dossiers appropriés
-4. Committez vos modifications avec des messages clairs
-5. Poussez votre branche et créez une Pull Request
+### 📁 `code/`
+This folder contains all project source code:
+- Jupyter notebooks (Python)
 
-### Conventions
-- Utilisez des noms de fichiers descriptifs
-- Commentez votre code
-- Documentez les jeux de données utilisés
-- Maintenez la structure des dossiers
+### 📁 `data/`
+This folder contains the datasets used in the project:
+- Raw data
+- Preprocessed data
 
-## Équipe
-Ce projet est réalisé en collaboration par le groupe.
+### 📁 `deliverables/`
+This folder contains the final deliverables and documents:
+- Reports
+- Graphs
+- Final results
 
-## Licence
-À définir selon les besoins du projet.
+---
+
+## Contributing to the Project
+To be defined later.
+
+---
+
+## Team
+This project is carried out by:
+- **Léa PONS** (M2 DIGIMOV)
+- **Morgan VIROLAN** (M2 DIGIMOV)
+- **Lucas SAVONA** (M2 DIGIMOV)
