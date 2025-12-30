@@ -1,30 +1,22 @@
 # Code
 
-Ce dossier contient tout le code source du projet d'analyse de séries temporelles.
+This folder contains all the source code for the time-series analysis project.
 
-## Contenu
+## Contents
 
-### Scripts Python
-Placez ici vos scripts Python pour :
-- Le prétraitement des données
-- L'analyse exploratoire
-- La modélisation et les prévisions
-- La visualisation des résultats
+### Jupyter Notebooks
+Place your notebooks (.ipynb) here for:
+- Data exploration
+- Experimentation
+- Detailed analyses
 
-### Notebooks Jupyter
-Placez ici vos notebooks (.ipynb) pour :
-- L'exploration des données
-- Les expérimentations
-- Les analyses détaillées
+### Utility Functions
+Organize your reusable code into modules.
 
-### Fonctions Utilitaires
-Organisez votre code en modules réutilisables.
+## Naming Conventions
+- Use descriptive filenames in English
+- Example: `preprocessing_data.py`
 
-## Conventions de Nommage
-- Utilisez des noms descriptifs en anglais ou en français
-- Format recommandé : `snake_case` pour les fichiers Python
-- Exemple : `analyse_serie_temporelle.py`, `preprocessing_data.py`
-
-## Commentaires
-- Commentez votre code pour faciliter la compréhension
-- Ajoutez des docstrings aux fonctions importantes
+## Comments
+- Comment your code to improve readability
+- Add docstrings to important functions
