@@ -1,32 +1,26 @@
-# Data / Données
+# Data
 
-Ce dossier contient les jeux de données utilisés pour le projet.
+This folder contains the datasets used for the project.
 
-## Organisation
+## Organization
 
-### Données Brutes
-Placez ici les données originales non modifiées :
-- Fichiers CSV
-- Fichiers Excel
-- Autres formats de données
+### Raw Data
+Place the original, unmodified data here:
+- CSV files
+- Excel files
+- Other data formats
 
-### Données Traitées
-Créez un sous-dossier pour les données prétraitées si nécessaire.
+### Processed Data
+Create a subfolder for preprocessed data if needed.
 
 ## Important
 
-### Fichiers Volumineux
-Pour les fichiers de données volumineux (> 100 MB), envisagez d'utiliser :
-- Git LFS (Large File Storage)
-- Un lien vers un stockage externe (Drive, Dropbox, etc.)
-- Un fichier `data_sources.txt` avec les liens de téléchargement
-
 ### Documentation
-- Documentez l'origine de chaque jeu de données
-- Incluez une description des variables/colonnes
-- Notez les dates de collecte et sources
+- Document the origin of each dataset
+- Include a description of the variables/columns
+- Note collection dates and sources
 
-## Format Recommandé
-- Privilégiez les formats standards (CSV, JSON)
-- Utilisez des noms de fichiers descriptifs
-- Exemple : `temperatures_paris_2020_2024.csv`
+## Recommended Format
+- Prefer standard formats (CSV, JSON)
+- Use descriptive filenames
+- Example: `BMI_Lea_RAW_PRE.csv`
