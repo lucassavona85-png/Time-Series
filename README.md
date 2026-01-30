@@ -16,7 +16,6 @@ This folder contains the datasets used in the project:
 - Raw data
 - Preprocessed data
 
-
 ---
 
 ## How to Run the Code
@@ -46,6 +45,6 @@ This folder contains the datasets used in the project:
 
 ## Team
 This project is carried out by:
-- **Léa PONS** (M2 DIGIMOVE)
-- **Morgan VIROLAN** (M2 DIGIMOVE)
-- **Lucas SAVONA** (M2 DIGIMOVE)
+- **PONS Léa** (M2 DIGIMOVE)
+- **VIROLAN Morgan** (M2 DIGIMOVE)
+- **SAVONA Lucas** (M2 DIGIMOVE)
