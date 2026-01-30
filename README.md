@@ -38,6 +38,35 @@ To be defined later.
 
 ---
 
+
+---
+
+## How to Run the Code
+
+1. **Clone the repository**
+	```bash
+	git clone https://github.com/your-org/your-repo.git
+	cd your-repo/Serie04/Time-Series
+	```
+
+2. **Install dependencies**
+	- It is recommended to use a virtual environment (e.g. `venv` or `conda`).
+	- Install the required Python packages:
+	```bash
+	pip install -r requirements.txt
+	```
+
+3. **Run the Jupyter notebooks**
+	- Launch JupyterLab or Jupyter Notebook:
+	```bash
+	jupyter lab
+	# ou
+	jupyter notebook
+	```
+	- Ouvrez les notebooks dans le dossier `code/` et exécutez-les cellule par cellule.
+
+---
+
 ## Team
 This project is carried out by:
 - **Léa PONS** (M2 DIGIMOVE)
