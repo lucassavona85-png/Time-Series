@@ -5,15 +5,6 @@ This collaborative GitHub repository is designed to store the group’s work on 
 
 ---
 
-## Branch Organization
-To ensure clean collaboration and thematic clarity, the project is structured around three main branches, each dedicated to a specific methodological domain in time-series analysis:
-
-- 🌿 **stochastic-process**
-- 🌿 **spectral-fractal-analysis**
-- 🌿 **nonlinear-analysis**
-
----
-
 ## Repository Structure
 
 ### 📁 `code/`
@@ -25,19 +16,6 @@ This folder contains the datasets used in the project:
 - Raw data
 - Preprocessed data
 
-### 📁 `deliverables/`
-This folder contains the final deliverables and documents:
-- Reports
-- Graphs
-- Final results
-
----
-
-## Contributing to the Project
-To be defined later.
-
----
-
 
 ---
 
@@ -45,8 +23,7 @@ To be defined later.
 
 1. **Clone the repository**
 	```bash
-	git clone https://github.com/your-org/your-repo.git
-	cd your-repo/Serie04/Time-Series
+	git clone https://github.com/lucassavona85-png/Time-Series
 	```
 
 2. **Install dependencies**
